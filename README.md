@@ -14,7 +14,7 @@ For example,
     $ sudo ls /var/lib/docker/vfs/dir/77de7629c684968f98848372db3c490b28a0a22b94227ad7a8fc6cc55c55e16c
     elasticsearch.yml  logging.yml
     
-No, let's remove that container
+Now, let's remove that container
     
     $ docker rm 9a8e6969eced
     9a8e6969eced
