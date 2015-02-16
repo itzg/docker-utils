@@ -34,3 +34,12 @@ And it's safe to re-run it:
 
     $ sudo ~/go/bin/purge_docker_volumes
     Congrats, nothing to purge
+
+### Building
+
+Get it and install it:
+
+    $ go get github.com/itzg/docker-utils/purge_docker_volumes
+    $ go install github.com/itzg/docker-utils/purge_docker_volumes
+
+and it run it from your `$GOPATH`/bin
