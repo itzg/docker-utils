@@ -1,5 +1,7 @@
 # docker-utils
 
+[![status](https://sourcegraph.com/api/repos/github.com/itzg/docker-utils/.badges/status.svg)](https://sourcegraph.com/github.com/itzg/docker-utils)
+
 Some simple utilities to manage Docker environments.
 
 ## purge_docker_volumes
